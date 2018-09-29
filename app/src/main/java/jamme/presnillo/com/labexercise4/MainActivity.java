@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart () {
         super.onStart();
-        Log.d("LabActivity4", "onResume() has executed");
+        Log.d("LabExercise4", "onResume() has executed");
     }
 
 
